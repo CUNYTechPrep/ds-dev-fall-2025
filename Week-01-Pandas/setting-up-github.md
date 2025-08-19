@@ -8,22 +8,22 @@
 ## Forking The Repo
 0. Create a fork of this repo. ![forking](https://raw.githubusercontent.com/zd123/images-for-class/main/forking-image-instructions/01-fork-button.png)
 
-0. Name that fork `my-fork-2024-fall-data-science` ![enter image description here](https://github.com/zd123/images-for-class/blob/main/forking-image-instructions/02-naming-fork.png?raw=true)
+0. Name that fork `my-fork-2025-fall-data-science` ![enter image description here](https://github.com/zd123/images-for-class/blob/main/forking-image-instructions/02-naming-fork.png?raw=true)
 	
 0. Copy the link of your forked repo.  ![enter image description here](https://github.com/zd123/images-for-class/blob/main/forking-image-instructions/03-getting-fork-link.png?raw=true)
 
 0. Open your terminal
 
 0. Clone your forked version of the original version by typing in `git clone` then pasting the link you just copied. 
-	* `git clone https://github.com/[YOUR-GITHUB-USER-NAME]/my-fork-2024-fall-data-science.git`
+	* `git clone https://github.com/[YOUR-GITHUB-USER-NAME]/my-fork-2025-fall-data-science.git`
 
 ## Setting it up to listen for updates. 
 
 0. Navigate to inside that repo. 
-	* `cd my-fork-2024-fall-data-science`
+	* `cd my-fork-2025-fall-data-science`
 
 0. Set the upstream (Note this is the link of the CUNY Tech Preps version of the repo, not your fork)
-	* `git remote add upstream https://github.com/CUNYTechPrep/2024-DS-Fri-1230`
+	* `git remote add upstream https://github.com/CUNYTechPrep/2025-DS-Fri-1230`
 
 ## Doing, Uploading/Pushing, and Submitting your HW
 
@@ -47,7 +47,7 @@
 0. In the first cell OF YOUR COPIED EXERCISE FILE print something nice about the TA. 
 	* `print('[SOMETHING NICE ABOUT YOUR TA]')`
 
-0. Save the file by clicking the disk icon in the top right or `Command+s`. Or clicking the floppy-disk icon in the top right. 
+0. Save the file by clicking the floppy disk icon in the top right, `Ctrl+S`, or `Command+S`.
 
 
 ## Uploading/Pushing Your HW
