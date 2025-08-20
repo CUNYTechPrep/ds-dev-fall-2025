@@ -11,6 +11,7 @@
         * *Directly from Meta*
 
 0. Review HW  [15min]
+    *revisiting week 1 - extra credit, can a volunteer can show class how to update their .bash_profile so they only have to type in 'jn' to launch jupyter notebook?
     * Review exemplary LinkedIn 
     * Best Slack message. 
     * Share screen HW check, one error you encountered. 
@@ -26,7 +27,7 @@
 
 # HW DUE [~1.5hrs]
 
-### Pre-Class for Next Weeks Analytics Lecture [~30min]
+### Pre-Class for Next Week's Analytics Lecture [~30min]
 0. Create [Tableau Public account](https://public.tableau.com/app/discover)
 0. [Watch these eight 2min videos](https://public.tableau.com/app/learn/how-to-videos) on getting started with Tableau
 0. Create new project. 
