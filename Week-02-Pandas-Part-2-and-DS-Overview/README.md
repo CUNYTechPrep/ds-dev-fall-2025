@@ -11,7 +11,7 @@
         * *Directly from Meta*
 
 0. Review HW  [15min]
-    *revisiting week 1 - extra credit, can a volunteer can show class how to update their .bash_profile so they only have to type in 'jn' to launch jupyter notebook?
+    *revisiting week 1 extra credit - can a volunteer show class how to update their .bash_profile so they only have to type in 'jn' to launch jupyter notebook?
     * Review exemplary LinkedIn 
     * Best Slack message. 
     * Share screen HW check, one error you encountered. 
