@@ -135,7 +135,7 @@ Detailed instructions on how to complete each of the assignments below.
 
 
 #### Doing your HW. 
-0. Highly suggest spening your repo directory folder/file in VS Code.  You can easily run ipython notebooks in there, and even have git intergration. 
+0. Highly suggest opening your repo directory folder/file in VS Code.  You can easily run ipython notebooks in there, and even have git intergration. 
 
 
 0. If you are not using VS Code then... Open your termial, type into your terminal and run
