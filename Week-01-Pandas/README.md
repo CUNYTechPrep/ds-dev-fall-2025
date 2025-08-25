@@ -10,6 +10,7 @@
 	* [TLDR slide deck](https://docs.google.com/presentation/d/1cgkgEVO8ZY4P49R45uu2BuLGsZ7_sfBqwu60eyJ8k9c/edit#slide=id.g2f65cf05428_0_0)
 0. Live coding pandas --> Lecture.ipynb [45min]
 0. Break
+0. 1 YEAR FREE GEMINI PRO PLAN for students. If you pay for Chatgpt, there you go! https://gemini.google/students/
 0. Explain breakout room rules. 
 0. [Setting up github.](https://github.com/CUNYTechPrep/2024-DS-Fri-1230/blob/main/Week-01-Pandas/setting-up-github.md)
 	* Once a fellow is able to add their edited file to the HW submission sheet, then they can go to breakout rooms. 
@@ -28,16 +29,21 @@ Confused? See [how to hand in HW in detail](https://github.com/CUNYTechPrep/2024
 [Friday 1230's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1jws-NeM5Ww4m903Xa8Vgdzcqi1LO3r_zXNQkNxeBk34/edit?usp=sharing).
 Super details are below on how to submit the assignments.
 
-## Pre-Class Videos [~30hr]
+## Pre-Class Videos [~30min]
 **Submit by pasting the link to your message under the "Pre-Class Slack Link" column.** 
 
 0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
 * Here are the [data files](https://github.com/justmarkham/pandas-videos/tree/master/data) for that video if you want to follow along.
-2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
+1. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
 
 Respond in-thread in the class slack channel with at __least one thing you learned__ from the videos/reading/or tutorial.  
 
 It can be as short as one sentence, or as long as a book. 
+
+- (OPTIONAL) If you want to be a Pandas wizard, go as far as you want into this Pandas playlist
+
+	https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+
 
 ## Exercise [~1hr] 
 **Submit Exercise HW by pasting the link in the HW Submission sheet under the "Exercise.ipynb" column.**
