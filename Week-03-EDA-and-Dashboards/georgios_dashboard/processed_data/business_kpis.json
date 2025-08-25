@@ -1,0 +1,16 @@
+{
+  "total_sales": 2261536.7827,
+  "total_orders": 4922,
+  "total_customers": 793,
+  "total_transactions": 9800,
+  "avg_order_value": 459.4751691791954,
+  "avg_sales_per_customer": 2851.8748836065574,
+  "avg_orders_per_customer": 6.206809583858764,
+  "total_growth_rate": 50.60637123754628,
+  "top_region": "West",
+  "top_region_sales": 710219.6845,
+  "top_category": "Technology",
+  "top_category_sales": 827455.873,
+  "top_segment": "Consumer",
+  "top_segment_sales": 1148060.531
+}

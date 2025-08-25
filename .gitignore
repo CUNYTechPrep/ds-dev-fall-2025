@@ -2,3 +2,6 @@
 */.ipynb_checkpoints/*
 .DS_Store
 .DS_Store?
+
+# virtual environment
+.ds-dev-fall-2025-venv/

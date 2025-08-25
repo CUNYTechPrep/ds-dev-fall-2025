@@ -1,0 +1,6 @@
+numpy
+pandas
+plotly
+plotly-express
+python-dateutil
+streamlit

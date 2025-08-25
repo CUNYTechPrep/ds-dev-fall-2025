@@ -1,0 +1,4 @@
+Segment,Total_Sales,Avg_Sales,Transaction_Count,Order_Count,Customer_Count,Sales_Per_Customer,Orders_Per_Customer
+Consumer,1148060.53,225.07,5101,2537,409,2806.99,6.2
+Corporate,688494.07,233.15,2953,1491,236,2917.35,6.32
+Home Office,424982.18,243.4,1746,894,148,2871.5,6.04
