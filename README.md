@@ -41,6 +41,8 @@ _*Syllabus and topics are subject to change_
 # Setup Instructions (Github and Homeworks)
 
 ## Getting Started (PLEASE READ THIS CAREFULLY TO SET YOURSELF UP FOR SUCCESS THIS SEMESTER)
+0. If you are unfamilar with Git, checkout this 100 seconds Fireship video on Git: https://www.youtube.com/watch?v=hwP7WQkmECE&ab_channel=Fireship
+
 0. Fork the class’ main repository to your own GitHub account `ds-fall-2025-YOUR_CLASS_SECTION`.
 
 0. Every week go to your forked repo and create a branch `firstname-lastname-week-XX` XX is the week number, eg: ahmad-basyouni-week-01
