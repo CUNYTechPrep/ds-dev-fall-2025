@@ -19,6 +19,7 @@
 * Hussam Marzooq: Fridays 7-8 PM
 * Jessica Lau
 * Kevin Li: Fridays 9-10 PM
+* TEST
 
 # Syllabus
 
